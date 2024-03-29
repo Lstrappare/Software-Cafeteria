@@ -17,3 +17,16 @@ El proyecto BLACKMOON busca abordar desafíos significativos en los procesos de 
 5. **Gestión de Empleados:** Programación de turnos, seguimiento de horas trabajadas y asignación de tareas para optimizar la planificación del personal.
 
 6. **Gestión de Reservas:** Facilitar la administración de horarios y mesas para mejorar la experiencia del cliente en reservas.
+## Alcance del Proyecto
+
+1. Desarrollo de un sitio web personalizado para la cafetería BLACKMOON, con un diseño moderno y atractivo que refleje la identidad de la marca.
+
+2. Integración de herramientas de gestión de contenido para que el personal de BLACKMOON pueda actualizar fácilmente el menú, los precios y otros detalles relevantes.
+
+3. Adaptación del sitio web para que sea compatible con dispositivos móviles, garantizando una experiencia de usuario óptima en smartphones y tablets.
+
+4. Capacitación al equipo de BLACKMOON sobre el uso del software desarrollado.
+
+5. Personalización del software para BLACKMOON, asegurando que se adapte perfectamente a sus procesos operativos y requisitos comerciales.
+
+6. Cumplimiento de los plazos establecidos y entrega de un producto final de alta calidad que contribuya al éxito y crecimiento de la cafetería BLACKMOON.
